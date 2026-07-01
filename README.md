@@ -59,3 +59,97 @@ Every project represents practical work completed during my learning journey and
 ### 🔧 Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdullahaiops9-glt&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahaiops9-glt&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Abdullahaiops9-glt&theme=github-dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullahaiops9-glt&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+---
+
+# 🚀 Featured Projects
+
+These projects represent hands-on labs and self-directed work completed during my Linux and DevOps learning journey.
+
+| Project | Description | Technologies |
+|----------|-------------|--------------|
+| 🐧 **Linux Server Hardening Script** | Automated common Linux server hardening tasks including SSH configuration, firewall rules, fail2ban, and audit logging. | Bash • RHEL • Linux Security |
+| 🌐 **DNS Server Setup with BIND** | Configured forward and reverse lookup zones using BIND9 in a Linux lab environment. | DNS • BIND9 • Ubuntu |
+| 📡 **DHCP Server Configuration** | Built a DHCP server with IP allocation, reservations, and lease management. | DHCP • Linux Networking |
+| 🐳 **Multi-Container Flask & MySQL Application** | Deployed a Python Flask application with MySQL using Docker Compose, custom networks, and persistent storage. | Docker • Docker Compose • Python • MySQL |
+| 🔀 **Nginx Reverse Proxy** | Implemented a reverse proxy architecture to securely route traffic between application containers. | Docker • Nginx |
+| 📊 **Linux System Performance Monitoring** | Developed monitoring scripts for CPU and memory utilization with scheduled automation. | Python • Bash • Cron |
+| ⚙️ **Ansible Web Server Deployment** | Automated Apache and Nginx deployments across multiple Linux nodes using Ansible playbooks. | Ansible • Apache • Nginx |
+| ☁️ **Terraform Infrastructure Provisioning** | Provisioned cloud infrastructure using Infrastructure as Code with reusable Terraform configurations. | Terraform • AWS |
+
+---
+
+# 📚 Learning Journey
+
+I believe the best way to learn Linux and DevOps is by building, experimenting, and documenting real hands-on work.
+
+I am currently pursuing a **Diploma in AIOps (Level 6)** at **Al Nafi International College**, where I continue to strengthen my knowledge of Linux administration, cloud technologies, automation, containerization, and DevOps practices.
+
+Alongside my diploma, I have completed hands-on coursework and labs covering:
+
+- 🐧 Linux System Administration (RHEL, Ubuntu & CentOS)
+- 🐳 Docker & Docker Compose
+- ⚙️ Ansible Automation
+- 🐍 Python Automation & Bash Scripting
+- ☁️ AWS Cloud Fundamentals
+- 🏗️ Terraform (Infrastructure as Code)
+- 🔄 CI/CD Concepts & DevOps Tools
+- 🌐 Linux Networking & Server Administration
+
+My goal is to continue learning through practical projects while gaining real-world experience as a **Junior Linux Administrator** or **Junior DevOps Engineer**.
+
+---
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Abdullahaiops9-glt">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/abdullah-8019433a6/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://medium.com/@abdullahaiops9">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+
+  <a href="mailto:abdullahjaan2k5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+📍 **Location:** Lahore, Pakistan
+
+📧 **Email:** abdullahjaan2k5@gmail.com
+
+💼 **Actively seeking Junior Linux Administrator and Junior DevOps Engineer opportunities**
