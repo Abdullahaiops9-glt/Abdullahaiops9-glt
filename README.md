@@ -62,14 +62,7 @@ Every project represents practical work completed during my learning journey and
 
 ---
 
----
-
 # 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Abdullahaiops9-glt?style=for-the-badge&logo=github&label=Followers"/>
-  <img src="https://img.shields.io/github/stars/Abdullahaiops9-glt?style=for-the-badge&logo=github&label=Total%20Stars"/>
-</p>
 
 <div align="center">
 
