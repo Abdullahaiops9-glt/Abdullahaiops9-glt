@@ -16,4 +16,4 @@
 
 ##### I am a passionate Junior Linux System Administrator who enjoys learning by building. My repositories showcase hands-on labs, self-directed projects, and technical documentation covering Linux administration, Docker, automation, networking, and DevOps fundamentals.
 
-##### Every project represents practical work completed during my learning journey and reflects my commitment to continuously improving my technical skills.
+### Every project represents practical work completed during my learning journey and reflects my commitment to continuously improving my technical skills.
