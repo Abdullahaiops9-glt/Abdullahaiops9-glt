@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Abdullah
-## **Junior Linux System Administrator | Linux • Docker • Ansible • Bash • Python -- 
+## Junior Linux System Administrator | Linux • Docker • Ansible • Bash • Python
 
 ### Passionate about Linux systems, automation, and DevOps. Building practical skills through hands-on labs and real-world inspired projects while preparing for my first professional role.
 
