@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdullah
 
-#### Junior Linux System Administrator | RHEL • Docker • Ansible • Bash • Python • Terraform • AWS
+### Junior Linux System Administrator | RHEL • Docker • Ansible • Bash • Python • AWS
 
 > **Building practical Linux and DevOps skills through hands-on labs and self-directed projects.**
 
