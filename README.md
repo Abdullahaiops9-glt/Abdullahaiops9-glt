@@ -66,14 +66,6 @@ Every project represents practical work completed during my learning journey and
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdullahaiops9-glt&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahaiops9-glt&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=Abdullahaiops9-glt&theme=github-dark&hide_border=true"/>
 
 </div>
