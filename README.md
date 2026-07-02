@@ -4,12 +4,12 @@
 
 > **Building practical Linux and DevOps skills through hands-on labs and self-directed projects.**
 
+🚀 **Actively seeking my first Junior Linux Administrator / Junior DevOps Engineer opportunity**
+
 ## 🎓 Certifications & Learning
 🎓 **Diploma in AIOps (Level 6)** — In Progress at **Al Nafi International College**
 
 📍 **Lahore, Pakistan**
-
-🚀 **Actively seeking my first Junior Linux Administrator / Junior DevOps Engineer opportunity**
 
 ---
 
