@@ -4,16 +4,13 @@
 
 > **Building practical Linux and DevOps skills through hands-on labs and self-directed projects.**
 
+## 🎓 Certifications & Learning
 🎓 **Diploma in AIOps (Level 6)** — In Progress at **Al Nafi International College**
 
 📍 **Lahore, Pakistan**
 
 🚀 **Actively seeking my first Junior Linux Administrator / Junior DevOps Engineer opportunity**
 
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdullahaiops9-glt&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
 ---
 
 # 👨‍💻 About Me
