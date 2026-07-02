@@ -103,18 +103,20 @@ Every repository represents practical work completed during my learning journey 
 
 # 🚀 Featured Projects
 
-These projects represent hands-on labs and self-directed work completed during my Linux and DevOps learning journey.
+These featured repositories represent the strongest hands-on projects from my Linux Administration and DevOps learning journey.
 
 | Project | Description | Technologies |
 |----------|-------------|--------------|
-| 🐧 **Linux Server Hardening Script** | Automated common Linux server hardening tasks including SSH configuration, firewall rules, fail2ban, and audit logging. | Bash • RHEL • Linux Security |
-| 🌐 **DNS Server Setup with BIND** | Configured forward and reverse lookup zones using BIND9 in a Linux lab environment. | DNS • BIND9 • Ubuntu |
-| 📡 **DHCP Server Configuration** | Built a DHCP server with IP allocation, reservations, and lease management. | DHCP • Linux Networking |
-| 🐳 **Multi-Container Flask & MySQL Application** | Deployed a Python Flask application with MySQL using Docker Compose, custom networks, and persistent storage. | Docker • Docker Compose • Python • MySQL |
-| 🔀 **Nginx Reverse Proxy** | Implemented a reverse proxy architecture to securely route traffic between application containers. | Docker • Nginx |
-| 📊 **Linux System Performance Monitoring** | Developed monitoring scripts for CPU and memory utilization with scheduled automation. | Python • Bash • Cron |
-| ⚙️ **Ansible Web Server Deployment** | Automated Apache and Nginx deployments across multiple Linux nodes using Ansible playbooks. | Ansible • Apache • Nginx |
-| ☁️ **Terraform Infrastructure Provisioning** | Provisioned cloud infrastructure using reusable Terraform configurations. | Terraform • AWS |
+| 🐧 **Automated Linux Server Hardening Script** | Automated Linux server hardening using Bash, including SSH security, firewall configuration, Fail2ban, and audit logging on RHEL. | Bash • RHEL • Linux Security |
+| 🌐 **DNS Server Setup with BIND** | Configured a fully functional DNS server with forward and reverse lookup zones using BIND9 on Ubuntu Linux. | DNS • BIND9 • Ubuntu |
+| 📡 **DHCP Server Configuration** | Configured a Linux DHCP server with dynamic IP allocation, lease management, and MAC address reservations. | DHCP • Linux Networking |
+| 🐳 **Multi-Container Python Flask & MySQL Application** | Deployed a Python Flask application with a MySQL database using Docker Compose, custom networks, and persistent volumes. | Docker • Docker Compose • Python • MySQL |
+| 🔀 **Nginx Reverse Proxy with Docker** | Built an Nginx reverse proxy to securely route traffic between multiple application containers. | Docker • Nginx • Reverse Proxy |
+| 🏗️ **Custom Dockerfile from Scratch** | Built a secure Docker image from scratch using Alpine Linux with a non-root user and image optimization techniques. | Docker • Dockerfile • Alpine Linux |
+| 🔐 **Linux Secure SSH Project** | Implemented secure SSH administration with multi-user access, key-based authentication, and server hardening practices. | SSH • Linux • Security |
+| 👥 **Linux User & Group Management** | Automated Linux user and group management using Bash scripting, including permission handling and logging. | Bash • Linux Administration |
+| 📊 **Linux System Performance Monitoring** | Built monitoring scripts to track CPU, memory, and disk usage with automated logging and scheduled execution. | Bash • Cron • Linux Monitoring |
+| ☁️ **AWS CI/CD Node.js DevOps Pipeline** | Practised building a CI/CD pipeline for a Node.js application using AWS services as part of DevOps training. | AWS • CI/CD • Node.js |
 
 ---
 
